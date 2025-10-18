@@ -28,7 +28,7 @@
 ## 📈 GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SyedAsadK)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAsadK)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAsadK&exclude_repo=SyedAsadK/Health-Dashboard)
 [![trophy](https://github-profile-trophy.vercel.app/?username=SyedAsadK)](https://github.com/SyedAsadK)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SyedAsadK)](https://git.io/streak-stats)
 
