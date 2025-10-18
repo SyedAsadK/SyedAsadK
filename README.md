@@ -7,7 +7,7 @@
 ## 🧐 Overview
 
 - 🚀 Strong interest in tech with a focus on system programming and application development
-- 💡 Proficient in languages like Rust, Java, and Go with projects ranging from simple tools to complex emulators and data collectors
+- 💡 Proficient in languages like Rust, Java, and Go with projects ranging from simple tools to complex emulators and simple task lists
 - 🌟 Committed to software development with a disciplined approach and consistent level of activity
 
 -------
