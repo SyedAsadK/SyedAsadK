@@ -1,5 +1,8 @@
+<h1 align="center"> Hi there, I'm Asad👋</h1>
+<h3 align="center"> i like System programming</h3>
+
 ![logo](coder.gif)
-### Hi there, I'm Syed Asad 👋
+
 
 I'm a Computer Science student passionate about systems programming, low-level performance, and open-source development. I'm currently building my skills in **Rust**, **Go**, and **C** to pursue a career in creating efficient and reliable infrastructure.
 
