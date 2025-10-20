@@ -41,12 +41,6 @@ I'm a Computer Science student passionate about systems programming, low-level p
   <a href="#"><img alt="Docker" src="https://skillicons.dev/icons?i=docker"></a>
 </p>
 <p align="left">
-  <strong>Frameworks & Libraries:</strong><br>
-  <a href="#"><img alt="Tokio" src="https://skillicons.dev/icons?i=tokio"></a>
-  <a href="#"><img alt="Raylib" src="https://skillicons.dev/icons?i=raylib"></a>
-  <a href="#"><img alt="BubbleTea" src="https://skillicons.dev/icons?i=bubbletea"></a>
-</p>
-
 ---
 
 ### 🚀 My Projects & Contributions
