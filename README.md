@@ -5,7 +5,6 @@ I'm a Computer Science student passionate about systems programming, low-level p
 - 🔭 I’m currently building a NES Emulator in Rust (`rnes`).
 - 🌱 I’m passionate about Linux, compilers, and distributed systems.
 - 💻 I'm a daily driver of **Arch Linux** and **Neovim**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE) | [Email](mailto:YOUR-EMAIL@gmail.com)
 
 ---
 
