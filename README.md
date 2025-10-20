@@ -36,12 +36,11 @@ I'm a Computer Science student passionate about systems programming, low-level p
   <a href="#"><img alt="Arch Linux" src="https://skillicons.dev/icons?i=arch"></a>
   <a href="#"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
   <a href="#"><img alt="Neovim" src="https://skillicons.dev/icons?i=neovim"></a>
-  <a href="#"><img alt="GDB" src="https://skillicons.dev/icons?i=gdb"></a>
   <a href="#"><img alt="CMake" src="https://skillicons.dev/icons?i=cmake"></a>
   <a href="#"><img alt="Docker" src="https://skillicons.dev/icons?i=docker"></a>
 </p>
 <p align="left">
----
+
 
 ### 🚀 My Projects & Contributions
 
