@@ -1,35 +1,66 @@
-## Hi there 👋,
+### Hi there, I'm Syed Asad 👋
 
-### I'm Syed Asad Khalid, a tech enthusiast with a passion for learning, building, contributing to open-source projects and passion for systems programming. Exploring the depths of Rust, Go, and Java to create innovative tools and solutions is what inspires me. 
+I'm a Computer Science student passionate about systems programming, low-level performance, and open-source development. I'm currently building my skills in **Rust**, **Go**, and **C** to pursue a career in creating efficient and reliable infrastructure.
 
--------
+- 🔭 I’m currently building a NES Emulator in Rust (`rnes`).
+- 🌱 I’m passionate about Linux, compilers, and distributed systems.
+- 💻 I'm a daily driver of **Arch Linux** and **Neovim**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE) | [Email](mailto:YOUR-EMAIL@gmail.com)
 
-## 🧐 Overview
+---
 
-- 🚀 Strong interest in tech with a focus on system programming and application development
-- 💡 Proficient in languages like Rust, Java, and Go with projects ranging from simple tools to complex emulators and simple task lists
-- 🌟 Committed to software development with a disciplined approach and consistent level of activity
+### 📊 My GitHub Stats
 
--------
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SyedAsadK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SyedAsadK's GitHub Stats" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedAsadK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAsadK&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+</p>
 
-## 💼 Skills and Projects Showcase
+---
 
-- 🛠️ Skilled in Rust, Go, and Java for system programming and application development
-- 🎯 Projects showcase a diverse set of interests, from system utilities like Hermyx to web development tools like TaskList
-- 🌐 Collaborated on projects like "tldr" and "awesome-rust", indicating a passion for open-source contribution and knowledge sharing
-  
-## Best Contribution
-- superfile: Wonderful file manager in golang (15K stars)
+### 🛠️ My Tech Stack
 
--------
-[![An image of @syedasadk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syedasadk)](https://holopin.io/@syedasadk)
+<p align="left">
+  <strong>Languages:</strong><br>
+  <a href="#"><img alt="C" src="https://skillicons.dev/icons?i=c"></a>
+  <a href="#"><img alt="Rust" src="https://skillicons.dev/icons?i=rust"></a>
+  <a href="#"><img alt="Go" src="https://skillicons.dev/icons?i=go"></a>
+  <a href="#"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
+  <a href="#"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
+  <a href="#"><img alt="SQL" src="https://skillicons.dev/icons?i=sqlite"></a>
+  <a href="#"><img alt="Java" src="https://skillicons.dev/icons?i=java"></a>
+</p>
+<p align="left">
+  <strong>Tools & Environment:</strong><br>
+  <a href="#"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
+  <a href="#"><img alt="Arch Linux" src="https://skillicons.dev/icons?i=arch"></a>
+  <a href="#"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
+  <a href="#"><img alt="Neovim" src="https://skillicons.dev/icons?i=neovim"></a>
+  <a href="#"><img alt="GDB" src="https://skillicons.dev/icons?i=gdb"></a>
+  <a href="#"><img alt="CMake" src="https://skillicons.dev/icons?i=cmake"></a>
+  <a href="#"><img alt="Docker" src="https://skillicons.dev/icons?i=docker"></a>
+</p>
+<p align="left">
+  <strong>Frameworks & Libraries:</strong><br>
+  <a href="#"><img alt="Tokio" src="https://skillicons.dev/icons?i=tokio"></a>
+  <a href="#"><img alt="Raylib" src="https://skillicons.dev/icons?i=raylib"></a>
+  <a href="#"><img alt="BubbleTea" src="https://skillicons.dev/icons?i=bubbletea"></a>
+</p>
 
-## 📈 GitHub Stats
+---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SyedAsadK)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAsadK&exclude_repo=Health-Dashboard)
-[![trophy](https://github-profile-trophy.vercel.app/?username=SyedAsadK)](https://github.com/SyedAsadK)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SyedAsadK)](https://git.io/streak-stats)
+### 🚀 My Projects & Contributions
 
+#### My Pinned Projects
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **👾 [rnes](https://github.com/SyedAsadK/rnes)** | My flagship project: A NES emulator in Rust, exploring the 6502 CPU and PPU architecture. | **Rust**, `S DL2` |
+| **✅ [QuickTask](https://github.com/SyedAsadK/QuickTask)** | A complete TUI task manager built from scratch with a custom UI, state management, and DB backend. | **Go**, `Raylib`, `SQLite` |
+| **💻 [dwm](https://github.com/SyedAsadK/dwm)** | My personal, patched build of the `dwm` window manager (C). | **C**, `X11` |
 
-
+#### My Open Source Contributions
+- **[superfile](https://github.com/yorukot/superfile) (15k+ ⭐)**: **[Merged PR #1112](https://github.com/yorukot/superfile/pull/1112)** to fix a critical file navigation bug.
+- **[tldr-pages](https://github.com/tldr-pages/tldr) (59k+ ⭐)**: Contributed **[PR #YOUR_PR_NUMBER](LINK-TO-YOUR-PR)** to add/update cheatsheets.
+- **[Hermyx](https://github.com/reverplex/hermyx) (700+ ⭐)**: Contributed **[PR #YOUR_PR_NUMBER](LINK-TO-YOUR-PR)** to... *(e.g., improve cache logic)*.
+- **[Tmp](https://github.com/l-m-b-b/Tmp) (100+ ⭐)**: Contributed **[PR #YOUR_PR_NUMBER](LINK-TO-YOUR-PR)** to... *(e.g., fix a playback bug)*.
