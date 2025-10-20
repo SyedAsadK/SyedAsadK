@@ -60,7 +60,7 @@ I'm a Computer Science student passionate about systems programming, low-level p
 | **💻 [dwm](https://github.com/SyedAsadK/dwm)** | My personal, patched build of the `dwm` window manager (C). | **C**, `X11` |
 
 #### My Open Source Contributions
-- **[superfile](https://github.com/yorukot/superfile) (15k+ ⭐)**: **[Merged PR #1112](https://github.com/yorukot/superfile/pull/1112)** to fix a critical file navigation bug.
-- **[tldr-pages](https://github.com/tldr-pages/tldr) (59k+ ⭐)**: Contributed **[PR #YOUR_PR_NUMBER](LINK-TO-YOUR-PR)** to add/update cheatsheets.
-- **[Hermyx](https://github.com/reverplex/hermyx) (700+ ⭐)**: Contributed **[PR #YOUR_PR_NUMBER](LINK-TO-YOUR-PR)** to... *(e.g., improve cache logic)*.
-- **[Tmp](https://github.com/l-m-b-b/Tmp) (100+ ⭐)**: Contributed **[PR #YOUR_PR_NUMBER](LINK-TO-YOUR-PR)** to... *(e.g., fix a playback bug)*.
+- **[superfile](https://github.com/yorukot/superfile) (15k+ ⭐)**
+- **[tldr-pages](https://github.com/tldr-pages/tldr) (59k+ ⭐)**
+- **[Hermyx](https://github.com/Spyder01/Hermyx)** 
+- **[Tmp](https://github.com/kjloveless/tmp)** 
