@@ -1,3 +1,4 @@
+![logo]([https://github.com/SyedAsadK/SyedAsadK/coder.gif])
 ### Hi there, I'm Syed Asad 👋
 
 I'm a Computer Science student passionate about systems programming, low-level performance, and open-source development. I'm currently building my skills in **Rust**, **Go**, and **C** to pursue a career in creating efficient and reliable infrastructure.
