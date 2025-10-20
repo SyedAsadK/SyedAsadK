@@ -22,7 +22,6 @@
 - superfile: Wonderful file manager in golang (15K stars)
 
 -------
-
 [![An image of @syedasadk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syedasadk)](https://holopin.io/@syedasadk)
 
 ## 📈 GitHub Stats
