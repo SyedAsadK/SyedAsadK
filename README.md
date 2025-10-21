@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Asad👋</h1>
-<h3 align="center"> i like System programming</h3>
+<h3 align="center"> i like System Programming</h3>
 
 ![logo](coder.gif)
 
