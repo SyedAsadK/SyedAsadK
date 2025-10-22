@@ -11,6 +11,7 @@ I'm a Computer Science student passionate about systems programming, low-level p
 - 💻 I'm a daily driver of **Arch Linux** and **Neovim**.
 
 ---
+[![An image of @syedasadk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syedasadk)](https://holopin.io/@syedasadk)
 
 ### 📊 My GitHub Stats
 
