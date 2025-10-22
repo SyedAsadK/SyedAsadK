@@ -19,7 +19,7 @@ I'm a Computer Science student passionate about systems programming, low-level p
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SyedAsadK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SyedAsadK's GitHub Stats" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedAsadK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAsadK&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=Health-Dashboard" alt="Top Languages" />
-    <img width="48%" src="https://github-profile-trophy.vercel.app/?username=SyedAsadK&theme=tokyonight" alt="GitHub trophies" />
+    <img width="65%" src="https://github-profile-trophy.vercel.app/?username=SyedAsadK&theme=tokyonight" alt="GitHub trophies" />
 
 </p>
 
