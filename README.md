@@ -56,7 +56,6 @@ I'm a Computer Science student passionate about systems programming, low-level p
 | :--- | :--- | :--- |
 | **👾 [rnes](https://github.com/SyedAsadK/rnes)** | My flagship project: A NES emulator in Rust, exploring the 6502 CPU and PPU architecture. | **Rust**, `S DL2` |
 | **✅ [QuickTask](https://github.com/SyedAsadK/QuickTask)** | A complete TUI task manager built from scratch with a custom UI, state management, and DB backend. | **Go**, `Raylib`, `SQLite` |
-| **💻 [dwm](https://github.com/SyedAsadK/dwm)** | My personal, patched build of the `dwm` window manager (C). | **C**, `X11` |
 
 #### My Open Source Contributions
 - **[superfile](https://github.com/yorukot/superfile) (15k+ ⭐)**
